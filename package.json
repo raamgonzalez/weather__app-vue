@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh": "^2.8.9",
+    "pages": "^0.0.16",
     "vue": "^3.2.37"
   },
   "devDependencies": {
